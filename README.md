@@ -12,7 +12,7 @@ You can be useful, but I'll know if you screw with it.
 
 
 # How to use this:
-• Multi MC. Navigate to your /instances folder and repo this in there. 
+• Multi MC. Navigate to your /instances folder and repo this in there. It's located here: http://multimc.org/
 It should be aptly named as it should, and the rest is select and go. PAINLESS LIKE FUR TRIMS.
 
 • If you're not already aware of what the server's address is, then you're not someone I know.
