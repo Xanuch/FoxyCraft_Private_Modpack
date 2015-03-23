@@ -8,3 +8,11 @@ I wanted a giant modpack that isn't going to be out of date for months, and it b
 
 If you find some sorta bug. Be nice, report a bug. It's a private pack but it's not perfectly made. I'm only foxy.
 You can be useful, but I'll know if you screw with it. 
+
+
+
+# How to use this:
+• Multi MC. Navigate to your /instances folder and repo this in there. 
+It should be aptly named as it should, and the rest is select and go. PAINLESS LIKE FUR TRIMS.
+
+• If you're not already aware of what the server's address is, then you're not someone I know.
