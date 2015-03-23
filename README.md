@@ -1,4 +1,5 @@
-# FoxyCraft Private Modpack THIS PACK IS PRIVATE. 
+# FoxyCraft Private Modpack
+#  THIS PACK IS INTENDED FOR PRIVATE USE.
 
 this pack was put together without permissions, however, only entitled for private use and kept centralized for private use on this github. There is no copyrights here, but each mod author is entitled to tell me otherwise. Seriously.
 
