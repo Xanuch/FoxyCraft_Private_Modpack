@@ -1,0 +1,179 @@
+{
+    "Biome_Essence_Ore": {
+        "template": "uniform",
+        "block": "BiomesOPlenty:biomeBlock",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 80,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "amethyst": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 0
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "ruby": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 2
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "peridot": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 4
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "topaz": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 6
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tanzanite": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 8
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "malachite": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 10
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "sapphire": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 12
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "amber": {
+        "template": "uniform",
+        "block": {
+            "name": "BiomesOPlenty:gemOre",
+            "metadata": 14
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

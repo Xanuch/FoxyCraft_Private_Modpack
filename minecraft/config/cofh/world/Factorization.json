@@ -1,0 +1,22 @@
+{
+    "darkIron": {
+        "template": "uniform",
+        "block": {
+            "name": "factorization:DarkIronOre",
+            "metadata": 0
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 3,
+        "minHeight": 1,
+        "maxHeight": 8,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
